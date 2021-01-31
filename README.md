@@ -1,1 +1,3 @@
-# haskell_basic
+# Opa!
+
+- Esses projetos são em Haskell, são coisas simples.
